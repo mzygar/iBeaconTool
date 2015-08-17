@@ -28,4 +28,4 @@ If you're just starting the iBeacon journey, it really helps to see how inaccura
 
 ## License
 
-`NaughtyKeyboard` may be freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
+`iBeaconTool` may be freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
